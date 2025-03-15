@@ -17,6 +17,7 @@ public class HomeController : Controller
     {
         return View();
     }
+    [HttpGet]
     public IActionResult About()
     {
         return View();
@@ -26,6 +27,30 @@ public class HomeController : Controller
     {
         return View();
     }
+
+    [HttpPost]
+public IActionResult Contact(Message model)
+{
+    // Проверка валидности формы
+    if (ModelState.IsValid)
+    {
+        Console.WriteLine($"Имя: {model.Name}");
+        Console.WriteLine($"Почта: {model.Email}");
+        Console.WriteLine($"Телефон: {model.Phone}");
+        Console.WriteLine($"Сообщение: {model.MessageText}");
+
+        // Допустим, отправляем сообщение или сохраняем в базу данных
+
+        // Показать сообщение пользователю
+        ViewBag.Success = "Спасибо за ваше сообщение!";
+
+        // Можем вернуть ту же страницу
+        return View();
+    }
+
+    // Если невалидно, возвращаем форму с ошибками
+    return View(model);
+}
 
     public IActionResult Brand()
     {

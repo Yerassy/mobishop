@@ -28,3 +28,4 @@
 /Users/yerassylzhanibek/mobishop/mobiShop/obj/Debug/net8.0/mobiShop.pdb
 /Users/yerassylzhanibek/mobishop/mobiShop/obj/Debug/net8.0/mobiShop.genruntimeconfig.cache
 /Users/yerassylzhanibek/mobishop/mobiShop/obj/Debug/net8.0/ref/mobiShop.dll
+/Users/yerassylzhanibek/mobishop/mobiShop/obj/Debug/net8.0/mobiShop.sourcelink.json
