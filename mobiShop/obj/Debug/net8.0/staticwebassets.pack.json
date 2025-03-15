@@ -1,0 +1,181 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/obj/Debug/net8.0/scopedcss/projectbundle/mobiShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/mobiShop.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/animate.min.css",
+      "PackagePath": "staticwebassets/css/animate.min.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/jquery-ui.css",
+      "PackagePath": "staticwebassets/css/jquery-ui.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets/css/jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/meanmenu.css",
+      "PackagePath": "staticwebassets/css/meanmenu.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/nice-select.css",
+      "PackagePath": "staticwebassets/css/nice-select.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/normalize.css",
+      "PackagePath": "staticwebassets/css/normalize.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/css/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/slick.css",
+      "PackagePath": "staticwebassets/css/slick.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/icon/call.png",
+      "PackagePath": "staticwebassets/icon/call.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/icon/email.png",
+      "PackagePath": "staticwebassets/icon/email.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/icon/loc.png",
+      "PackagePath": "staticwebassets/icon/loc.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/icon/testimonial_qoute.png",
+      "PackagePath": "staticwebassets/icon/testimonial_qoute.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/icon/wfe4.png",
+      "PackagePath": "staticwebassets/icon/wfe4.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/1.png",
+      "PackagePath": "staticwebassets/images/1.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/2.png",
+      "PackagePath": "staticwebassets/images/2.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/3.png",
+      "PackagePath": "staticwebassets/images/3.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/4.png",
+      "PackagePath": "staticwebassets/images/4.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/5.png",
+      "PackagePath": "staticwebassets/images/5.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/6.png",
+      "PackagePath": "staticwebassets/images/6.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/about.png",
+      "PackagePath": "staticwebassets/images/about.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/aboutbg.jpg",
+      "PackagePath": "staticwebassets/images/aboutbg.jpg"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/banner.jpg",
+      "PackagePath": "staticwebassets/images/banner.jpg"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/banner1.png",
+      "PackagePath": "staticwebassets/images/banner1.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/hea.png",
+      "PackagePath": "staticwebassets/images/hea.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/loading.gif",
+      "PackagePath": "staticwebassets/images/loading.gif"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/search_icon.png",
+      "PackagePath": "staticwebassets/images/search_icon.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/images/star.png",
+      "PackagePath": "staticwebassets/images/star.png"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets/js/jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/jquery.validate.js",
+      "PackagePath": "staticwebassets/js/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/plugin.js",
+      "PackagePath": "staticwebassets/js/plugin.js"
+    },
+    {
+      "Id": "/Users/yerassylzhanibek/mobishop/mobiShop/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.mobiShop.props",
+      "PackagePath": "build\\mobiShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.mobiShop.props",
+      "PackagePath": "buildMultiTargeting\\mobiShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.mobiShop.props",
+      "PackagePath": "buildTransitive\\mobiShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.mobiShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
