@@ -51,7 +51,7 @@
                         <div class="full">
                             <div class="center-desk">
                                 <div class="logo">
-                                    <a href="index.html"><img src="~/images/logo.png" alt="#"></a>
+                                    <a asp-controller="Home" asp-action="Index">Home</a>
                                 </div>
                             </div>
                         </div>
@@ -61,14 +61,16 @@
                             <div class="limit-box">
                                 <nav class="main-menu">
                                     <ul class="menu-area-main">
-                                        <li class="active"> <a href="index.html">Home</a> </li>
-                                        <li> <a href="about.html">About</a> </li>
-                                        <li><a href="brand.html">Brand</a></li>
-                                        <li><a href="special.html">Specials</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
-                                        <li class="last">
+                                        <li class="active"> <a asp-controller="Home" asp-action="Index">Home</a> </li>
+                                        <li><a asp-controller="Home" asp-action="About">About</a></li>
+                                        <li><a asp-controller="Product" asp-action="Brand">Brand</a></li>
+                                        <li><a asp-controller="Product" asp-action="Special">Special</a></li>
+                                        <li><a asp-controller="Home" asp-action="Contact">Contact Us</a></li>
+                                         <li class="last">
                                             <a href="#"><img src="~/images/search_icon.png" alt="icon" /></a>
                                         </li>
+                                        
+
                                     </ul>
                                 </nav>
                             </div>

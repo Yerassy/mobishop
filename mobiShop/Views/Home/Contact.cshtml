@@ -2,56 +2,67 @@
 
 @{
     ViewData["Title"] = "Contact";
-
 }
 
-
-
-    <div class="brand_color">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="titlepage">
-                        <h2>Contact Us</h2>
-                    </div>
+<div class="brand_color">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="titlepage">
+                    <h2>Contact Us</h2>
                 </div>
             </div>
         </div>
-
     </div>
+</div>
 
-    <!-- contact -->
-    <div class="contact">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
+<!-- contact -->
+<div class="contact">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
 
-                    <form class="main_form"
-                        asp-action="Contact"
-                        asp-controller="Home"
-                        method="post">
-                        
-                        <div class="row">
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                <input class="form-control" placeholder="Your name" type="text" asp-for="Name" required>
-                            </div>
-                            <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
-                                <input class="form-control" placeholder="Email" type="email" asp-for="Email" required>
-                            </div>
-                            <div class=" col-md-12">
-                                <input class="form-control" placeholder="Phone" type="tel" asp-for="Phone">
-                            </div>
-                            <div class="col-md-12">
-                                <textarea class="textarea" placeholder="Message" asp-for="MessageText" required></textarea>
-                            </div>
-                            <div class=" col-md-12">
-                                <button type="submit" class="send">Send</button>
-                            </div>
+                <form class="main_form" asp-action="Contact" asp-controller="Home" method="post">
+                    <div class="row">
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                            <input class="form-control" placeholder="Your name" type="text" asp-for="Name" required>
+                            <span asp-validation-for="Name" class="text-danger"></span>
                         </div>
-                    </form>
+                        <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                            <input class="form-control" placeholder="Email" type="email" asp-for="Email" required>
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <input class="form-control" placeholder="Phone" type="tel" asp-for="Phone">
+                            <span asp-validation-for="Phone" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <textarea class="textarea" placeholder="Message" asp-for="MessageText" required></textarea>
+                            <span asp-validation-for="MessageText" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-12">
+                            <button type="submit" class="send">Send</button>
+                        </div>
+                    </div>
+                </form>
 
-                </div>
             </div>
         </div>
     </div>
-    <!-- end contact -->
+</div>
+<!-- end contact -->
+
+<!-- Register form (you may want to separate it into a different page or section) -->
+<div class="register-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <form asp-controller="Account" asp-action="Register" method="post" class="form-inline">
+                    <input type="text" name="Username" placeholder="Username" class="form-control mr-2" required />
+                    <input type="password" name="Password" placeholder="Password" class="form-control mr-2" required />
+                    <button type="submit" class="btn btn-primary">Register</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

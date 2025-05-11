@@ -1,0 +1,23 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "dotnet",
+			"task": "build",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": [],
+			"label": "dotnet: build"
+		},
+		{
+			"type": "dotnet",
+			"task": "build /Users/yerassylzhanibek/mobishop/mobiShop/mobiShop.csproj",
+			"file": "/Users/yerassylzhanibek/mobishop/mobiShop/mobiShop.csproj",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "dotnet: build /Users/yerassylzhanibek/mobishop/mobiShop/mobiShop.csproj"
+		}
+	]
+}
